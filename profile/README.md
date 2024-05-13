@@ -12,4 +12,4 @@ REECO meet the needs of large collaborative research projects in categorissing, 
 
 ---
 
-[!Funded by the European Union](logo-eu-commission.jpg) This project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement N. 101004746
+[!Funded by the European Union](logo-eu-commission.jpg?raw=true) This project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement N. 101004746
