@@ -11,4 +11,5 @@ The framework includes an Annotation Schema, a tool for validating annotations, 
 REECO meet the needs of large collaborative research projects in categorissing, classifying, and delivering project outputs in a coherent, unified way and, at the same time, ensure that the delivery is compliant with FAIR good practives and maximisies dissemination and potential for reuse, building on top of well-established framworks such as Github, Zenodo, and Schema.org. 
 
 ---
-<img src="logo-eu-commission.jpg?raw=true" width="100"> This project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement N. 101004746
+<img src="logo-eu-commission.jpg?raw=true" width="70"> 
+This project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement N. 101004746
